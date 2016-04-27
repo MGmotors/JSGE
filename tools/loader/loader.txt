@@ -1,0 +1,15 @@
+loder.js lädt dateien in einer bestimmten Reihenfolge und packt sie nach und nach in das Dokument.
+
+Mit loader.loadFromJson("asdsa.json") kann eine bestimmte JSON geladen werden.
+(wie muss die aufgebaut sein?
+nach dem Laden wird ein callback aufgerufen.
+
+Um alles den Ui-Thread nicht zu blocken, wird alles möglichst asynchron aufgrufen.
+--> http://stackoverflow.com/questions/9516900/how-can-i-create-an-asynchronous-function-in-javascript
+Dazu gibt es das Attribut _bAsync und die funktion setAsync(bool). _bAsync ist standartmäßg auf true.
+
+Wann bin ich fertig?
+zuerst alle JSONS Synchron laden, danach asynchron 
+loadJson -> parseJson
+
+Welche JSONS geladen wurden, steh in _loadedJSONS

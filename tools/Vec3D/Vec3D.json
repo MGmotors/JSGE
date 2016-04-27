@@ -1,0 +1,6 @@
+{
+"version":0.1,
+"base":"http://projects-mgmotors.c9.io/tools/Vec3D",
+"name":"Vec3D",
+"files":["http://projects-mgmotors.c9.io/tools/createNS/createNS.json"]
+}

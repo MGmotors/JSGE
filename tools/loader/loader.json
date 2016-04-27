@@ -1,0 +1,6 @@
+{
+"version":0.1,
+"base":"http://firsttry-javascript-mgmotors.c9.io/tools/loader/",
+"name":"whoo",
+"files":["alert.js"]
+}

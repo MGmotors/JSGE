@@ -1,0 +1,19 @@
+{
+"version":0.1,
+"base":"http://projects-mgmotors.c9users.io/jsge",
+"name":"jsge",
+"files":[
+    "/ECSEngine/Engine.js",
+    "/KeyManager/KeyManager.js",
+    "/KeyManager/KeyCodes.js",
+    "/EventManager/EventManager.js",
+    "/MenuManager/MenuManager.js",
+    "/AssetManager/AssetManager.js",
+    "/Base/BaseGame.js",
+    "/Base/BaseLevel.js",
+    "/Base/Entity.js",
+    "/Base/SimlpeRectComponent.js",
+    "/Base/SimpleRectMovementSystem.js",
+    "/Base/SimpleRectRenderSystem.js"
+    ]
+}

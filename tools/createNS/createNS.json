@@ -1,0 +1,6 @@
+{
+"version":0.1,
+"base":"http://projects-mgmotors.c9users.io/tools/createNS/",
+"name":"createNS",
+"files":["createNS.js"]
+}
